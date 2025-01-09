@@ -11,7 +11,8 @@ It monitors newly launched pools using gayser grpc and undergo all the necessary
 Below is the pnl analysis of my sniper wallet registered in this program.
 Anyone who is wlling to set up the sniping environment and make money, please ping me.
 I will guide you how to earn 2k in a week constantly.
-![image](https://github.com/dragonwarrior9873/Profitable-Solana-Sniper-Bot/assets/pumpfun.png)
+![pumpfun](https://github.com/user-attachments/assets/f8ee39a5-7c8d-44cf-9b02-614c6dbf680a)
+
 
 The Pump.fun Sniper Bot checks the pools that moves from Pump.fun to Raydium by hitting the bonding curve using streams from grpc endpoint.
 It can intercept from 1 to 3 block and with fast and business gayser api keys, it can intercept even in the first block too.
