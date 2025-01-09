@@ -44,12 +44,4 @@ Ensure you have the following installed before proceeding:
 
 Node.js (version 20.0.0 or higher)
 npm (Node package manager)
-Installation Steps
-Clone the Repository
 
-Begin by cloning the repository to your local machine:
-
-git clone https://github.com/dragonwarrior9873/Profitable-Solana-Sniper-Bot.git
-cd Profitable-Solana-Sniper-Bot
-npm install
-npm run start
