@@ -4,7 +4,6 @@ Contact Information
 For support or inquiries regarding this project, feel free to reach out:
 
 Telegram: https://t.me/magicdev01 Skype: live:.cid.1f1021b7e207b76a
-![Screenshot_8](https://github.com/user-attachments/assets/0e6118c1-6b06-488f-8ce7-3df548139527)
 
 Features
 The Raydium Sniper Bot offers a range of powerful features to enhance your trading experience:
